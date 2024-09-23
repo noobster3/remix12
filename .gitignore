@@ -1,9 +1,4 @@
-log/*
-.DS_Store
-.sass-cache
-*/.DS_Store
-scrobbler_jayjo44_data.cache
-*/.cache
-.cache/redux.state
 node_modules
+/build
+.env
 .vercel
