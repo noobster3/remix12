@@ -6,7 +6,7 @@ To get started, run the Remix cli with this template
 
 ```sh
 npx create-remix@latest --template vercel/vercel/examples/remix ~
-```
+```!
 
 ## Deploy Your Own  
 
